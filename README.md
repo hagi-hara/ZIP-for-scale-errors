@@ -93,6 +93,4 @@ Hagihara, H., Ishibashi, M., Moriguchi Y., & Shinya Y. (2024). Large-scale data 
 
   
 ## Authors of This Repository
-[Blinded for peer review]
-
-<!-- If you have any questions, please email at **hiromichi.h(AT)gmail.com** (please replace **(AT)** with **@**).	- [Hiromichi Hagihara](https://github.com/hagi-hara) -->
+If you have any questions, please email at **hiromichi.h(AT)gmail.com** (please replace **(AT)** with **@**).	- [Hiromichi Hagihara](https://github.com/hagi-hara) 
