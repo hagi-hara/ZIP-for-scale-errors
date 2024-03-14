@@ -5,8 +5,7 @@ ZIP-for-scale-errors
 ## Overview
 This repository includes the analysis codes, graphing codes, and dataset for the following paper:
 
-[Blinded for peer review]
-<!-- Hagihara, H., Ishibashi, M., Moriguchi Y., & Shinya Y. (2022). ZLarge-scale data demystify children’s scale errors: A meta-analytic approach using the Zero-Inflated Poisson models. [Manuscript in progress] -->
+Hagihara, H., Ishibashi, M., Moriguchi Y., & Shinya Y. (2024). Large-scale data decipher children’s scale errors: A meta-analytic approach using the Zero-Inflated Poisson models. _Developmental Science_.
 
 ## Dataset and R scripts
 - **01_DescriptiveStats.R**
